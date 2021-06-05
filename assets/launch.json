@@ -1,0 +1,66 @@
+{
+    "cospar_id": "",
+    "date_str": "Jun 06",
+    "est_date": {
+        "day": null,
+        "month": null,
+        "quarter": null,
+        "year": null
+    },
+    "id": 401,
+    "launch_description": "A SpaceX Falcon 9 rocket will launch the SXM-8 mission on Sunday, June 6, 2021 at 4:25 AM (UTC).",
+    "media": [],
+    "mission_description": null,
+    "missions": [
+        {
+            "description": null,
+            "id": 389,
+            "name": "SXM-8"
+        }
+    ],
+    "modified": "2021-05-29T01:00:43+00:00",
+    "name": "SXM-8",
+    "pad": {
+        "id": 56,
+        "location": {
+            "country": "United States",
+            "id": 52,
+            "name": "Cape Canaveral / KSC TBD",
+            "slug": "cape-canaveral-ksc-t",
+            "state": "FL",
+            "statename": "Florida"
+        },
+        "name": "Pad TBD"
+    },
+    "provider": {
+        "id": 1,
+        "name": "SpaceX",
+        "slug": "spacex"
+    },
+    "quicktext": "Falcon 9 - SXM-8 - Sun Jun 06, 2021 04:25:00 UTC (L-6 days, 08:12:07) - https://rocketlaunch.live/launch/sxm-8 for info/stream",
+    "result": -1,
+    "slug": "sxm-8",
+    "sort_date": "1622953500",
+    "suborbital": false,
+    "t0": null,
+    "tags": [
+        {
+            "id": 24,
+            "text": "Communications Satellite"
+        }
+    ],
+    "vehicle": {
+        "company_id": 1,
+        "id": 1,
+        "name": "Falcon 9",
+        "slug": "falcon-9"
+    },
+    "weather_condition": "Possible Light Rain and Humid",
+    "weather_icon": "wi-rain",
+    "weather_summary": "Possible Light Rain and Humid\nTemp: 75.68F\nWind: 4.82mph\n",
+    "weather_temp": 75.68,
+    "weather_updated": "2021-05-30T12:00:20+00:00",
+    "weather_wind_mph": 4.82,
+    "win_close": null,
+    "win_open": "2021-06-06T04:25Z"
+}

@@ -22,7 +22,8 @@ setuptools.setup(
         "Topic :: Software Development :: User Interfaces",
         "Topic :: System :: Monitoring"
     ],
-    install_requires=[],
+    install_requires=[
+    ],
     extras_require={
         "dev": [
             "setuptools",
