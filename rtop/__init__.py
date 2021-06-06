@@ -1,9 +1,9 @@
 import os
 import datetime as dt
 
-MAJOR = 0
+MAJOR = 1
 MINOR = 0
-PATCH = 1
+PATCH = 0
 
 APP_NAME = 'rtop'
 APP_AUTHOR = ' Dmitri McGuckin'
