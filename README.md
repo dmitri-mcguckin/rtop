@@ -7,7 +7,9 @@
 [![deployment](https://img.shields.io/github/workflow/status/dmitri-mcguckin/rtop/Deploy%20to%20PyPi?label=deployment)](https://github.com/dmitri-mcguckin/rtop/actions?query=workflow%3A%22Deploy+to+PyPi%22)
 
 
-A TUI monitor that integrates with RocketLaunch.live to bring a list of upcoming launches.
+A TUI monitor that integrates with [RocketLaunch.live](https://www.rocketlaunch.live) to bring a list of upcoming launches.
+
+*(Support Rocket Launch Live [here](https://www.rocketlaunch.live/premium))*
 
 # Quick Start
 
