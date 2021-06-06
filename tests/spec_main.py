@@ -1,2 +1,6 @@
-def test_main():
-    assert True
+import unittest
+
+
+class TestMain(unittest.TestCase):
+    def test_main(self):
+        assert True
