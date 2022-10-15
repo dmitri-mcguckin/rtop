@@ -14,8 +14,8 @@ APP_LICENSE = 'GPL-3.0'
 APP_URL = 'https://github.com/dmitri-mcguckin/rtop'
 
 API_UPDATE_INTERVAL = dt.timedelta(minutes=1)
-API_URI = 'https://fdo.rocketlaunch.live/json/launches/next/5'
-# API_URI = 'http://localhost:3000/api'
+# API_URI = 'https://fdo.rocketlaunch.live/json/launches/next/5'
+API_URI = 'http://localhost:3000/api'
 
 CACHE_DIR = os.path.expanduser('~/.cache/rtop')
 
